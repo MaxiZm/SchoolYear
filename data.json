@@ -1,0 +1,287 @@
+{
+  "teachers": [
+    {
+      "full_name": "Teacher 1",
+      "maximum_hours": 25,
+      "maximum_days": 5,
+      "available_days": {
+        "monday": true,
+        "tuesday": true,
+        "wednesday": true,
+        "thursday": true,
+        "friday": true,
+        "saturday": false
+      },
+      "subject": "Math"
+    },
+    {
+      "full_name": "Teacher 2",
+      "maximum_hours": 20,
+      "maximum_days": 4,
+      "available_days": {
+        "monday": false,
+        "tuesday": true,
+        "wednesday": true,
+        "thursday": true,
+        "friday": false,
+        "saturday": false
+      },
+      "subject": "Science"
+    },
+    {
+      "full_name": "Teacher 3",
+      "maximum_hours": 30,
+      "maximum_days": 5,
+      "available_days": {
+        "monday": true,
+        "tuesday": true,
+        "wednesday": false,
+        "thursday": true,
+        "friday": true,
+        "saturday": false
+      },
+      "subject": "English"
+    },
+    {
+      "full_name": "Teacher 4",
+      "maximum_hours": 20,
+      "maximum_days": 4,
+      "available_days": {
+        "monday": false,
+        "tuesday": false,
+        "wednesday": true,
+        "thursday": true,
+        "friday": true,
+        "saturday": false
+      },
+      "subject": "History"
+    },
+    {
+      "full_name": "Teacher 5",
+      "maximum_hours": 25,
+      "maximum_days": 5,
+      "available_days": {
+        "monday": true,
+        "tuesday": false,
+        "wednesday": true,
+        "thursday": false,
+        "friday": true,
+        "saturday": false
+      },
+      "subject": "Geography"
+    },
+    {
+      "full_name": "Teacher 6",
+      "maximum_hours": 20,
+      "maximum_days": 4,
+      "available_days": {
+        "monday": true,
+        "tuesday": false,
+        "wednesday": false,
+        "thursday": false,
+        "friday": true,
+        "saturday": false
+      },
+      "subject": "Art"
+    },
+    {
+      "full_name": "Teacher 7",
+      "maximum_hours": 25,
+      "maximum_days": 5,
+      "available_days": {
+        "monday": true,
+        "tuesday": true,
+        "wednesday": true,
+        "thursday": false,
+        "friday": false,
+        "saturday": false
+      },
+      "subject": "Physical Education"
+    },
+    {
+      "full_name": "Teacher 8",
+      "maximum_hours": 30,
+      "maximum_days": 5,
+      "available_days": {
+        "monday": true,
+        "tuesday": true,
+        "wednesday": false,
+        "thursday": false,
+        "friday": false,
+        "saturday": false
+      },
+      "subject": "Music"
+    },
+    {
+      "full_name": "Teacher 9",
+      "maximum_hours": 20,
+      "maximum_days": 4,
+      "available_days": {
+        "monday": false,
+        "tuesday": true,
+        "wednesday": true,
+        "thursday": true,
+        "friday": true,
+        "saturday": false
+      },
+      "subject": "Computer Science"
+    },
+    {
+      "full_name": "Teacher 10",
+      "maximum_hours": 25,
+      "maximum_days": 5,
+      "available_days": {
+        "monday": true,
+        "tuesday": false,
+        "wednesday": true,
+        "thursday": true,
+        "friday": true,
+        "saturday": false
+      },
+      "subject": "Foreign Language"
+    }
+  ],
+  "classes": [
+    {
+      "name": "8A",
+      "maximum_lessons": 8,
+      "minimum_lessons": 7,
+      "curriculum": [
+        {
+          "subject": "Math",
+          "hours_per_week": 8,
+          "teacher": "Teacher 1"
+        },
+        {
+          "subject": "Science",
+          "hours_per_week": 6,
+          "teacher": "Teacher 2"
+        },
+        {
+          "subject": "English",
+          "hours_per_week": 7,
+          "teacher": "Teacher 3"
+        },
+        {
+          "subject": "History",
+          "hours_per_week": 5,
+          "teacher": "Teacher 4"
+        },
+        {
+          "subject": "Geography",
+          "hours_per_week": 4,
+          "teacher": "Teacher 5"
+        },
+        {
+          "subject": "Art",
+          "hours_per_week": 3,
+          "teacher": "Teacher 6"
+        },
+        {
+          "subject": "Physical Education",
+          "hours_per_week": 5,
+          "teacher": "Teacher 7"
+        },
+        {
+          "subject": "Music",
+          "hours_per_week": 6,
+          "teacher": "Teacher 8"
+        }
+      ]
+    },
+    {
+      "name": "8B",
+      "maximum_lessons": 8,
+      "minimum_lessons": 7,
+      "curriculum": [
+        {
+          "subject": "Math",
+          "hours_per_week": 7,
+          "teacher": "Teacher 1"
+        },
+        {
+          "subject": "Science",
+          "hours_per_week": 5,
+          "teacher": "Teacher 2"
+        },
+        {
+          "subject": "English",
+          "hours_per_week": 6,
+          "teacher": "Teacher 3"
+        },
+        {
+          "subject": "History",
+          "hours_per_week": 4,
+          "teacher": "Teacher 4"
+        },
+        {
+          "subject": "Geography",
+          "hours_per_week": 3,
+          "teacher": "Teacher 5"
+        },
+        {
+          "subject": "Art",
+          "hours_per_week": 2,
+          "teacher": "Teacher 6"
+        },
+        {
+          "subject": "Physical Education",
+          "hours_per_week": 4,
+          "teacher": "Teacher 7"
+        },
+        {
+          "subject": "Music",
+          "hours_per_week": 5,
+          "teacher": "Teacher 8"
+        }
+      ]
+    },
+    {
+      "name": "8C",
+      "maximum_lessons": 8,
+      "minimum_lessons": 7,
+      "curriculum": [
+        {
+          "subject": "Math",
+          "hours_per_week": 8,
+          "teacher": "Teacher 1"
+        },
+        {
+          "subject": "Science",
+          "hours_per_week": 6,
+          "teacher": "Teacher 2"
+        },
+        {
+          "subject": "English",
+          "hours_per_week": 7,
+          "teacher": "Teacher 3"
+        },
+        {
+          "subject": "History",
+          "hours_per_week": 5,
+          "teacher": "Teacher 4"
+        },
+        {
+          "subject": "Geography",
+          "hours_per_week": 4,
+          "teacher": "Teacher 5"
+        },
+        {
+          "subject": "Art",
+          "hours_per_week": 3,
+          "teacher": "Teacher 6"
+        },
+        {
+          "subject": "Physical Education",
+          "hours_per_week": 5,
+          "teacher": "Teacher 7"
+        },
+        {
+          "subject": "Music",
+          "hours_per_week": 6,
+          "teacher": "Teacher 8"
+        }
+      ]
+    }
+  ]
+}
