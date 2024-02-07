@@ -144,7 +144,7 @@
   "classes": [
     {
       "name": "8A",
-      "maximum_lessons": 8,
+      "maximum_lessons": 9,
       "minimum_lessons": 7,
       "curriculum": [
         {
@@ -191,7 +191,7 @@
     },
     {
       "name": "8B",
-      "maximum_lessons": 8,
+      "maximum_lessons": 9,
       "minimum_lessons": 7,
       "curriculum": [
         {
@@ -238,7 +238,7 @@
     },
     {
       "name": "8C",
-      "maximum_lessons": 8,
+      "maximum_lessons": 9,
       "minimum_lessons": 7,
       "curriculum": [
         {

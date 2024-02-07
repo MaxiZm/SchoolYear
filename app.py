@@ -16,11 +16,15 @@ def create_class_tab(notebook, class_name, weekly_data):
         # Create a LabelFrame for each day inside the tab
         day_frame = ttk.LabelFrame(class_frame, text=f'Day {day_index + 1}')
         day_frame.grid(row=0, column=day_index, padx=10, pady=10, sticky="nsew")
+        day_frame.columnconfigure(0, weight=1)  # Make the column within day_frame expand to fill available space
 
         # Populate the day's frame with subjects
         for lesson_index, lesson in enumerate(day_data):
             lesson_info = f"{lesson['subject']} - {lesson['teacher']}"
-            ttk.Label(day_frame, text=lesson_info, wraplength=100).grid(row=lesson_index, column=0, sticky="w", padx=5, pady=2)
+            label = ttk.Label(day_frame, text=lesson_info, wraplength=150, anchor="center")
+            label.grid(row=lesson_index, column=0, sticky="ew", padx=5, pady=2)
+            label.config(relief="solid", borderwidth=1)  # Add a border to make it look like a box
+
 
 def generate_plot(frame, x, y):
     # Generate a simple plot with passed x and y data points

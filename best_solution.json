@@ -2,9 +2,197 @@
     "8A": [
         [
             {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Physical Education",
+                "hours_per_week": 5,
+                "teacher": "Teacher 7"
+            },
+            {
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
+            },
+            {
+                "subject": "Geography",
+                "hours_per_week": 4,
+                "teacher": "Teacher 5"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 6,
+                "teacher": "Teacher 2"
+            },
+            {
                 "subject": "History",
                 "hours_per_week": 5,
                 "teacher": "Teacher 4"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 5,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            }
+        ],
+        [
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 6,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 6,
+                "teacher": "Teacher 2"
+            }
+        ],
+        [
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "Physical Education",
+                "hours_per_week": 5,
+                "teacher": "Teacher 7"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 5,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 5,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 5,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "Geography",
+                "hours_per_week": 4,
+                "teacher": "Teacher 5"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            }
+        ],
+        [
+            {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "Geography",
+                "hours_per_week": 4,
+                "teacher": "Teacher 5"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "Geography",
+                "hours_per_week": 4,
+                "teacher": "Teacher 5"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 6,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            }
+        ],
+        [
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
             },
             {
                 "subject": "English",
@@ -17,183 +205,151 @@
                 "teacher": "Teacher 3"
             },
             {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
             },
             {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
             },
             {
-                "subject": "Art",
-                "hours_per_week": 3,
-                "teacher": "Teacher 6"
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
             },
             {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            }
-        ],
-        [
-            {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 5,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 5,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            }
-        ],
-        [
-            {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            }
-        ],
-        [
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Art",
-                "hours_per_week": 3,
-                "teacher": "Teacher 6"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            }
-        ],
-        [
-            {
-                "subject": "Art",
-                "hours_per_week": 3,
-                "teacher": "Teacher 6"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 5,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 5,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
             }
         ]
     ],
     "8B": [
         [
             {
+                "subject": "Music",
+                "hours_per_week": 5,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 5,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Physical Education",
+                "hours_per_week": 4,
+                "teacher": "Teacher 7"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 5,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "Math",
+                "hours_per_week": 7,
+                "teacher": "Teacher 1"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 4,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 4,
+                "teacher": "Teacher 4"
+            }
+        ],
+        [
+            {
+                "subject": "Science",
+                "hours_per_week": 5,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 5,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Physical Education",
+                "hours_per_week": 4,
+                "teacher": "Teacher 7"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 2,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 2,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "Physical Education",
+                "hours_per_week": 4,
+                "teacher": "Teacher 7"
+            },
+            {
+                "subject": "Physical Education",
+                "hours_per_week": 4,
+                "teacher": "Teacher 7"
+            }
+        ],
+        [
+            {
+                "subject": "Math",
+                "hours_per_week": 7,
+                "teacher": "Teacher 1"
+            },
+            {
+                "subject": "Math",
+                "hours_per_week": 7,
+                "teacher": "Teacher 1"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 5,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 5,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 4,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 4,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 6,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "Math",
+                "hours_per_week": 7,
+                "teacher": "Teacher 1"
+            },
+            {
+                "subject": "Geography",
+                "hours_per_week": 3,
+                "teacher": "Teacher 5"
+            }
+        ],
+        [
+            {
                 "subject": "Art",
                 "hours_per_week": 2,
                 "teacher": "Teacher 6"
@@ -204,9 +360,41 @@
                 "teacher": "Teacher 5"
             },
             {
-                "subject": "Music",
+                "subject": "English",
+                "hours_per_week": 6,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 6,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 4,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "Science",
                 "hours_per_week": 5,
-                "teacher": "Teacher 8"
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 6,
+                "teacher": "Teacher 3"
+            }
+        ],
+        [
+            {
+                "subject": "History",
+                "hours_per_week": 4,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 6,
+                "teacher": "Teacher 3"
             },
             {
                 "subject": "Art",
@@ -214,38 +402,6 @@
                 "teacher": "Teacher 6"
             },
             {
-                "subject": "Art",
-                "hours_per_week": 2,
-                "teacher": "Teacher 6"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 5,
-                "teacher": "Teacher 2"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 4,
-                "teacher": "Teacher 7"
-            }
-        ],
-        [
-            {
-                "subject": "English",
-                "hours_per_week": 6,
-                "teacher": "Teacher 3"
-            },
-            {
-                "subject": "English",
-                "hours_per_week": 6,
-                "teacher": "Teacher 3"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 3,
-                "teacher": "Teacher 5"
-            },
-            {
                 "subject": "Geography",
                 "hours_per_week": 3,
                 "teacher": "Teacher 5"
@@ -254,127 +410,6 @@
                 "subject": "English",
                 "hours_per_week": 6,
                 "teacher": "Teacher 3"
-            },
-            {
-                "subject": "English",
-                "hours_per_week": 6,
-                "teacher": "Teacher 3"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 5,
-                "teacher": "Teacher 2"
-            }
-        ],
-        [
-            {
-                "subject": "History",
-                "hours_per_week": 4,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 4,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "Math",
-                "hours_per_week": 7,
-                "teacher": "Teacher 1"
-            },
-            {
-                "subject": "Math",
-                "hours_per_week": 7,
-                "teacher": "Teacher 1"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 4,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 3,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 3,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 5,
-                "teacher": "Teacher 2"
-            }
-        ],
-        [
-            {
-                "subject": "Music",
-                "hours_per_week": 5,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 5,
-                "teacher": "Teacher 2"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 4,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 4,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 4,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 5,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Math",
-                "hours_per_week": 7,
-                "teacher": "Teacher 1"
-            },
-            {
-                "subject": "Math",
-                "hours_per_week": 7,
-                "teacher": "Teacher 1"
-            }
-        ],
-        [
-            {
-                "subject": "Music",
-                "hours_per_week": 5,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 5,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 3,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 4,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 5,
-                "teacher": "Teacher 2"
             },
             {
                 "subject": "Art",
@@ -391,93 +426,19 @@
     "8C": [
         [
             {
-                "subject": "History",
-                "hours_per_week": 5,
-                "teacher": "Teacher 4"
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
             },
             {
-                "subject": "English",
-                "hours_per_week": 7,
-                "teacher": "Teacher 3"
-            },
-            {
-                "subject": "English",
-                "hours_per_week": 7,
-                "teacher": "Teacher 3"
-            },
-            {
-                "subject": "English",
-                "hours_per_week": 7,
-                "teacher": "Teacher 3"
+                "subject": "Math",
+                "hours_per_week": 8,
+                "teacher": "Teacher 1"
             },
             {
                 "subject": "History",
                 "hours_per_week": 5,
                 "teacher": "Teacher 4"
-            },
-            {
-                "subject": "History",
-                "hours_per_week": 5,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "English",
-                "hours_per_week": 7,
-                "teacher": "Teacher 3"
-            }
-        ],
-        [
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "English",
-                "hours_per_week": 7,
-                "teacher": "Teacher 3"
-            },
-            {
-                "subject": "English",
-                "hours_per_week": 7,
-                "teacher": "Teacher 3"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Art",
-                "hours_per_week": 3,
-                "teacher": "Teacher 6"
-            },
-            {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
-            }
-        ],
-        [
-            {
-                "subject": "History",
-                "hours_per_week": 5,
-                "teacher": "Teacher 4"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
             },
             {
                 "subject": "History",
@@ -490,19 +451,14 @@
                 "teacher": "Teacher 1"
             },
             {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
             },
             {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
+                "subject": "Geography",
+                "hours_per_week": 4,
+                "teacher": "Teacher 5"
             }
         ],
         [
@@ -510,26 +466,6 @@
                 "subject": "Science",
                 "hours_per_week": 6,
                 "teacher": "Teacher 2"
-            },
-            {
-                "subject": "Science",
-                "hours_per_week": 6,
-                "teacher": "Teacher 2"
-            },
-            {
-                "subject": "Music",
-                "hours_per_week": 6,
-                "teacher": "Teacher 8"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
-            },
-            {
-                "subject": "Physical Education",
-                "hours_per_week": 5,
-                "teacher": "Teacher 7"
             },
             {
                 "subject": "English",
@@ -537,23 +473,38 @@
                 "teacher": "Teacher 3"
             },
             {
-                "subject": "Art",
-                "hours_per_week": 3,
-                "teacher": "Teacher 6"
+                "subject": "Physical Education",
+                "hours_per_week": 5,
+                "teacher": "Teacher 7"
             },
             {
-                "subject": "Art",
-                "hours_per_week": 3,
-                "teacher": "Teacher 6"
-            }
-        ],
-        [
+                "subject": "Physical Education",
+                "hours_per_week": 5,
+                "teacher": "Teacher 7"
+            },
             {
                 "subject": "Geography",
                 "hours_per_week": 4,
                 "teacher": "Teacher 5"
             },
             {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 6,
+                "teacher": "Teacher 2"
+            }
+        ],
+        [
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
                 "subject": "Science",
                 "hours_per_week": 6,
                 "teacher": "Teacher 2"
@@ -562,6 +513,43 @@
                 "subject": "Science",
                 "hours_per_week": 6,
                 "teacher": "Teacher 2"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 6,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "Science",
+                "hours_per_week": 6,
+                "teacher": "Teacher 2"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 5,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            }
+        ],
+        [
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
             },
             {
                 "subject": "Music",
@@ -569,9 +557,14 @@
                 "teacher": "Teacher 8"
             },
             {
-                "subject": "Geography",
-                "hours_per_week": 4,
-                "teacher": "Teacher 5"
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 5,
+                "teacher": "Teacher 4"
             },
             {
                 "subject": "Geography",
@@ -579,14 +572,51 @@
                 "teacher": "Teacher 5"
             },
             {
+                "subject": "Geography",
+                "hours_per_week": 4,
+                "teacher": "Teacher 5"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            }
+        ],
+        [
+            {
                 "subject": "Math",
                 "hours_per_week": 8,
                 "teacher": "Teacher 1"
             },
             {
-                "subject": "Math",
-                "hours_per_week": 8,
-                "teacher": "Teacher 1"
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "Art",
+                "hours_per_week": 3,
+                "teacher": "Teacher 6"
+            },
+            {
+                "subject": "History",
+                "hours_per_week": 5,
+                "teacher": "Teacher 4"
+            },
+            {
+                "subject": "English",
+                "hours_per_week": 7,
+                "teacher": "Teacher 3"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
+            },
+            {
+                "subject": "Music",
+                "hours_per_week": 6,
+                "teacher": "Teacher 8"
             }
         ]
     ]

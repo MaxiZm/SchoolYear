@@ -104,7 +104,7 @@ def main():
     # Individual initialization (needs to be adapted to create a valid schedule)
 
 
-    pop = toolbox.population(n=100)
+    pop = toolbox.population(n=200)
 
     # Evaluate the entire population
     fitnesses = list(toolbox.map(toolbox.evaluate, pop))
@@ -118,7 +118,7 @@ def main():
 
 
     # Define the evolution loop
-    generations = 400
+    generations = 200
     for gen in range(generations):
         # Select the next generation individuals
         offspring = toolbox.select(pop, len(pop))
