@@ -1,5 +1,4 @@
 import time
-import matplotlib.pyplot as plt
 from deap import base, creator, tools
 import random
 import json
@@ -154,11 +153,7 @@ def main():
     print("Fitness:", best_schedule.fitness.values[0])
     print("Generations/second:", generations/(time.time()-initial_time))
 
-    plt.plot(range(generations), fitnesses_history)
-
     pool.close()
-
-    plt.show()
 
     with open("best_solution.json", "w") as f:
         json.dump(best_schedule.schedule, f, ensure_ascii=False, indent=4)
