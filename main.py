@@ -59,12 +59,18 @@ def mutate(individual, indpb):
 
 # Crossover function (might need adjustments based on actual schedule representation)
 def crossover(ind1, ind2):
-    # This needs to be adapted to work with your schedule representation
-    # Simple one-point crossover example
-    crossover_point = random.randint(1, len(ind1.schedule) - 1)
-    for i, key in enumerate(ind1.schedule.keys()):
-        if i >= crossover_point:
-            ind1.schedule[key], ind2.schedule[key] = ind2.schedule[key], ind1.schedule[key]
+    if random.random() < 0.5:
+        crossover_point = random.randint(1, len(ind1.schedule) - 1)
+        for i, key in enumerate(ind1.schedule.keys()):
+            if i >= crossover_point:
+                ind1.schedule[key], ind2.schedule[key] = ind2.schedule[key], ind1.schedule[key]
+
+    else:
+        class_ = random.choice(list(ind1.schedule.keys()))
+        crossover_point = random.randint(1, len(ind1.schedule[class_]) - 1)
+        for i in range(crossover_point, len(ind1.schedule[class_])):
+            ind1.schedule[class_][i], ind2.schedule[class_][i] = ind2.schedule[class_][i], ind1.schedule[class_][i]
+
     return ind1, ind2
 
 
